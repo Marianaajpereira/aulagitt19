@@ -1,0 +1,16 @@
+// printf([FORMATO],[VALORES/VARIÁVEIS] );
+        System.out.println("A resposta é " + 10);
+        System.out.printf("A resposta é %d\n", 10);
+
+        // FORMATOS: 
+        // %d = int   %f = decimal %s = String
+        //%x.yf x = número de casas interia, y = número de casas decimais
+
+        System.out.printf("TEXTO = %.1f/n");
+
+VARIAVEL
+INT = NUMERO INTEIRO
+DOUBLE 
+
+IF {}
+ELSE {}
